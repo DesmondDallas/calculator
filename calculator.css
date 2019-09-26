@@ -1,0 +1,38 @@
+
+#box1 { width: 65px;
+}
+
+#row1 {
+  width: 29px
+}
+
+
+body {
+  color: #6cacc5;
+  font: 300 18px/1.6 "";
+  padding: 5em 0 2em;
+  text-align: center;
+}
+
+body {
+    height: 200px;
+    animation: mymove 20s infinite;
+}
+
+@keyframes mymove {
+    from {background-color:black; }
+    to {background-color: #e6e3e8;} 
+}
+
+h1 {
+  margin: 10px;
+  font: Bradley Hand, cursive;
+}
+
+input[type=button] {
+  border-radius: 0%;
+}
+
+#btn1 {
+  width: 2.6em;
+}
